@@ -11,7 +11,7 @@ Learn how to sign in to your Vidgo TV account on any device with this simple gui
    :alt: Vidgo TV Account Sign In
    :width: 400px
    :align: center
-   :target: https://acorntvaccount.com
+   :target: https://vidgotvaccount.net
 
 Vidgo TV provides a cutting-edge and adaptable alternative to traditional cable packages for live TV streaming. Vidgo offers a variety of channels that you can watch on various devices, regardless of your interests in sports, movies, family entertainment, or news. However, you must first complete the Vidgo TV account sign-in process before you can access all of the content. This guide takes you through each step if you're new to the platform or simply need a quick refresher.
 
